@@ -51,4 +51,5 @@ This script performs AWS enumeration for IAM, S3, and EC2 resources using a spec
    ```
    Replace `<profile_name>` with the AWS CLI profile name you set up.
 
-
+### Output File
+  -  The script saves the output in a file named in the format: ```<profile_name>_enum_<YYYY-MM-DD_HH-MM-SS>.txt```
