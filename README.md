@@ -4,6 +4,8 @@
 
 This script performs AWS enumeration for IAM, S3, and EC2 resources using a specified AWS CLI profile. It retrieves detailed information about IAM users, groups, policies, S3 buckets, and EC2 instances, saving the output to a timestamped file.
 
+[Watch Demo Video](https://github.com/AlienwareSec/paws-enum/blob/main/paws-enum.mp4)
+
 ## Features
 
 - **IAM Enumeration:**
